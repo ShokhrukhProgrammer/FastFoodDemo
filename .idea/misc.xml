@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/category_backgorund1.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/category_backgorund2.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/category_backgorund3.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/category_backgorund4.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/category_backgorund5.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/category_background1.xml" value="0.16203703703703703" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/intro_button_background.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/light_orange_back.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/search_back.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/drawable/shopping_cart.xml" value="0.14290540540540542" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/layout/activity_intro.xml" value="0.18" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/layout/viewholder_cat.xml" value="0.67" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Proect/KotlinAndroid/FastFoodDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
